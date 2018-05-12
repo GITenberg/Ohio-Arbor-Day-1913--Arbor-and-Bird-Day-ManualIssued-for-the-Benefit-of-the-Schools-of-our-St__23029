@@ -9,6 +9,8 @@ covers:
 - cover_type: archival
   image_path: 23029-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23029#Ohio-Arbor-Day-1913--Arbor-and-Bird-Day-ManualIssued-for-the-Benefit-of-the-Schools-of-our-St_
 gutenberg_issued: '2007-10-13'
 gutenberg_type: Text
 identifiers:
